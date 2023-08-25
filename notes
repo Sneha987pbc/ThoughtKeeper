@@ -1,0 +1,12 @@
+npm i nodemon -D means thatb you are installing only for developmnet while hosting node modules will consume less memory
+
+
+**SSL**
+OpenSSL is an open-source software library that provides cryptographic functions and protocols for secure communication over computer networks. It includes implementations of various encryption, decryption, digital signature, and certificate management algorithms, as well as support for various secure network protocols.
+
+Originally developed as the "SSLeay" project, OpenSSL was created to implement the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols, which are essential for securing data transmission over the internet. SSL and TLS protocols are commonly used for activities such as secure web browsing (HTTPS), email communication (SMTPS, IMAPS), and virtual private network (VPN) connections.
+
+
+# Virtuals in mongodb
+https://mongoosejs.com/docs/tutorials/virtuals.html
+
